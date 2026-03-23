@@ -1,5 +1,7 @@
 
 # Mi Proyecto Android 📱
+En el siguiente enlace te descargara el pdf de la codificación:
+[Codificacion.pdf](https://github.com/user-attachments/files/26175539/Codificacion.pdf)
 
 Proyecto básico en Android que incluye:
 
@@ -22,7 +24,7 @@ Proyecto básico en Android que incluye:
 
 ## ⚙️ Tecnologías
 - Android Studio
-- - Android Studio
+-  Android Studio
 - Java
 - XML
 
