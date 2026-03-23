@@ -1,4 +1,4 @@
-# Mi-proyecto-Android
+
 # Mi Proyecto Android 📱
 
 Proyecto básico en Android que incluye:
@@ -26,12 +26,17 @@ Proyecto básico en Android que incluye:
 - Java
 - XML
 
-## 🛠️ Instrucciones
-1. Abrir en Android Studio
-2. Reemplazar fondo por imagen .9.png
-3. Ejecutar en emulador o dispositivo
+
 
 ## 📸 Resultado esperado
 - Texto cambia según idioma
 - Fondo adaptable
 - UI centrada correctamente
+- 
+  <img width="348" height="529" alt="image" src="https://github.com/user-attachments/assets/074b7647-969e-4350-937f-8c3910186bae" />
+<img width="353" height="524" alt="image" src="https://github.com/user-attachments/assets/89b6a28a-2bc1-4628-bd0c-a92b65095273" />
+<img width="530" height="352" alt="image" src="https://github.com/user-attachments/assets/d1760587-ea70-4fb6-bdf9-3acc0cfb0a94" />
+<img width="525" height="348" alt="image" src="https://github.com/user-attachments/assets/0ec01f4f-e16f-482f-86e1-6ca35e4f8a73" />
+<img width="693" height="430" alt="image" src="https://github.com/user-attachments/assets/0f6a1393-fa98-4c25-9270-5585e9810b37" />
+
+
