@@ -2,8 +2,11 @@
 # Mi Proyecto Android 📱
 En el siguiente enlace te descargara el pdf de la codificación:
 [Codificacion.pdf](https://github.com/user-attachments/files/26175539/Codificacion.pdf)
+y [codificacion 2.pdf](https://github.com/user-attachments/files/26194225/codificacion.2.pdf)
+
 
 Proyecto básico en Android que incluye:
+
 
 ## 🌍 Idiomas soportados
 - Español (default)
